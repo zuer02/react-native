@@ -134,7 +134,6 @@ const styles = StyleSheet.create({
         color:'#183D3D',
         borderColor:'#000',
         textAlign:'center',
-        outline: 'none'
     },
     botoes: {
         flexDirection:'row',
